@@ -26,7 +26,7 @@ We aim to revolutionize the tech industry by creating seamless, innovative, and 
 For business inquiries, partnerships, or more information, feel free to reach out to us:
 
 📧 **Email:** workriyad2@gmail.com  
-🌐 **Website:** [krinc.com](https://krinc.com)  
+🌐 **Website:** [krinc.com](https://riyad745.github.io/krinc/)  
 📱 **Follow Us:** [LinkedIn](https://www.linkedin.com/in/md-riyad-273863308) | [Facebook](https://www.facebook.com/kr.inc09)  
 
 ---
