@@ -11,7 +11,6 @@ KR Inc. is led by **Mohammad Riyad**, the CEO and visionary behind the company. 
 ## Our Expertise
 
 - **Mobile App Development** (Flutter, Firebase)
-
 - **Social Media Platforms**
 - **Fintech Solutions**
 - **AI-driven Automation**
@@ -28,7 +27,7 @@ For business inquiries, partnerships, or more information, feel free to reach ou
 
 📧 **Email:** workriyad2@gmail.com  
 🌐 **Website:** [krinc.com](https://krinc.com)  
-📱 **Follow Us:** [LinkedIn](#) | [Twitter](#) | [Facebook](#)  
+📱 **Follow Us:** [LinkedIn](https://www.linkedin.com/in/md-riyad-273863308) | [Facebook](https://www.facebook.com/kr.inc09)  
 
 ---
-© 2025 KR Inc. All rights reserved# krinc
+© 2025 KR Inc. All rights reserved.
